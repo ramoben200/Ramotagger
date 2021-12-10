@@ -40,7 +40,7 @@ async def start(event):
                          Button.url('➕ BENİ GRUBA EKLE ➕ ', 'http://t.me/sakirtagger_bot?startgroup=a')
                       ],
                       [
-                         Button.url('📣 Kanal', 'https://t.me/Sakirbey2),
+                         Button.url('📣 Kanal', 'https://t.me/Sakirbey2'),
                          Button.url('👮Developer', 'https://t.me/tht_herlock'),
                          Button.url('🎆 Sahib', 'https://t.me/SakirBey1')
                       ]
