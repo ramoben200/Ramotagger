@@ -37,12 +37,12 @@ async def start(event):
   await event.reply("**@TrendTaggerBot🇹🇷**, Grup veya kanaldaki neredeyse tüm üyelerden bahsedebilirim ★\nDaha fazla bilgi için **/bilgi**'i tıklayın.",
                     buttons=(
                       [
-                         Button.url('➕ BENİ GRUBA EKLE ➕ ', 'http://t.me/sakirtagger_bot?startgroup=a')
+                         Button.url('➕ BENİ GRUBA EKLE ➕ ', 'http://t.me/TrendTaggerBot?startgroup=a')
                       ],
                       [
-                         Button.url('📣 Kanal', 'https://t.me/Sakirbey2'),
-                         Button.url('👮Developer', 'https://t.me/tht_herlock'),
-                         Button.url('🎆 Sahib', 'https://t.me/SakirBey1')
+                         Button.url('Sohbet', 'https://t.me/KatillerCetesi'),
+                         Button.url('👮 Sahib', 'https://t.me/S1yahimsin'),
+                         Button.url('🎆 Sahib', 'https://t.me/GruzzBy')
                       ]
                     ),
                     link_preview=False
@@ -53,12 +53,12 @@ async def help(event):
   await event.reply(helptext,
                     buttons=(
                       [
-                         Button.url('➕ BENİ GRUBA EKLE ➕', 'http://t.me/sakirtagger_bot?startgroup=a')
+                         Button.url('➕ BENİ GRUBA EKLE ➕ ', 'http://t.me/TrendTaggerBot?startgroup=a')
                       ],
                       [
-                         Button.url('📣 Kanal', 'https://t.me/Sakirbey2'),
-                         Button.url('👮Developer', 'https://t.me/tht_herlock'),
-                         Button.url('🎆 Sahib', 'https://t.me/SakirBey1')
+                         Button.url('Sohbet', 'https://t.me/KatillerCetesi'),
+                         Button.url('👮 Sahib', 'https://t.me/S1yahimsin'),
+                         Button.url('🎆 Sahib', 'https://t.me/GruzzBy')
                       ]
                     ),
                     link_preview=False
